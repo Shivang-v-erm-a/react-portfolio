@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "date": "16/04/2024",
+      "title": "TECH STAR",
+      "description": "This is the website from which you can learn about tech...i hope that you like lies. Get more details by clicking on the below button",
+      "url": "https://learning-platform-beta.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+
+    {
+      "date": "19/04/2024",
+      "title": "VIDEO HUB",
+      "description": "This is a website from where you can watch stupid videos(far better than scrolling reels). Get more details by clicking on the below button",
+      "url": "https://videos-app-pi.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "26/02/2024",
+      "title": "Text to Voice Convertor",
+      "description": "Get your text converted into voice with several accents...have fun and keep supporting. Get more details by clicking on the below button",
+      "url": "https://text-to-voice-convertor-theta.vercel.app",
+      "imgSrc": "https://images.unsplash.com/photo-1485579149621-3123dd979885?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8dm9pY2V8fHx8fHwxNzE1NjIyOTM1&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600"
+    },
+
+    {
+      "date": "27/02/2024",
+      "title": "Weather App",
+      "description": "This is a website which knocks on the place to bring it's information. Get more details by clicking on the below button",
+      "url": "https://weather-app-delta-red.vercel.app/",
+      "imgSrc": "https://images.unsplash.com/photo-1565010431002-0c91cad04dd3?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2xpbWF0ZXx8fHx8fDE3MTU2MjMyMzY&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600"
+    },
+    {
+      "date": "13/05/2024",
+      "title": "PORTFOLIO",
+      "description": "This is a website which describes about me(basically my developer's face), see my other faces by connecting with me on social media. Get more details by clicking on the below button",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
